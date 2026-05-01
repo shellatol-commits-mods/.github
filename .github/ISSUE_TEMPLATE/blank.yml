@@ -1,4 +1,4 @@
-name: Blank Issue
+name: Blank issue
 description: Create a new issue from scratch
 title: "[Issue]: "
 labels: ["triage needed"]
@@ -6,7 +6,7 @@ body:
   - type: textarea
     id: body
     attributes:
-      label: "triage needed"
+      label: ""
       placeholder: "Type your description here..."
     validations:
       required: false
